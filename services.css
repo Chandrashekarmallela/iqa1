@@ -1,0 +1,20 @@
+body
+{
+  background-image:url("b1.png");
+}
+table
+{
+  background-color:black;
+  color:white;
+}
+h2
+{
+  color:black;
+  font-style: oblique;
+}
+h1
+{
+  font-family:Perpetua Titling MT;
+  color: white;
+  font-style:normal;
+}
